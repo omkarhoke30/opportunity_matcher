@@ -6,7 +6,7 @@ The platform provides separate experiences for students and administrators, with
 
 ## 🚀 Live Demo
 
-[visit our website](https://opportunity-matcher.onrender.com)
+[visit my website](https://opportunity-matcher.onrender.com)
 
 ## ✨ Features
 
